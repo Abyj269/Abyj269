@@ -1,9 +1,15 @@
 ### Hi there 👋 I am Aby Jose
 <hr>
 
-<b>A little about me...</b> 
+<h3>A little about me...</h3> 
+<br>
+<br>
 I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 <br>
+<br>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abyj269)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=your-Abyj269&color=dc143c)
 
 <!--
