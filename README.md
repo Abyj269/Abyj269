@@ -1,9 +1,10 @@
 ### Hi there 👋 I am Aby Jose
 <hr>
 
-- 🌱 I’m currently learning ...
+<b>A little about me...</b> 
+I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
+<br>
 ![](https://komarev.com/ghpvc/?username=your-Abyj269&color=dc143c)
-
 
 <!--
 **Abyj269/Abyj269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
