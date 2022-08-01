@@ -8,7 +8,7 @@ I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusias
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyj269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyj269&langs_count=8)](https://github.com/abyj269/github-readme-stats)
 
 
 
