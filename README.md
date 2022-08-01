@@ -6,7 +6,7 @@
 I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,figma)](https://skillicons.dev)
 
 
 <!--
