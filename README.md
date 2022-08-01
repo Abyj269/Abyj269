@@ -2,14 +2,11 @@
 <hr>
 
 <h3>A little about me...</h3> 
-<br>
-<br>
+
 I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.
 <br>
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyj269&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap5)](https://skillicons.dev)
 
 
 <!--
