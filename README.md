@@ -8,7 +8,7 @@ I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusias
 <br>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abyj269)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-Abyj269&color=dc143c)
 
