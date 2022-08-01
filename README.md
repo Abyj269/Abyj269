@@ -3,7 +3,7 @@
 
 <h3>A little about me...</h3> 
 
-I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 Passionate About Learning And Working With New Tech.
+I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 Passionate About Learning And Working With New Technology.
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,figma,git)](https://skillicons.dev)
