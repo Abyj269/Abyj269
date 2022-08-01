@@ -8,9 +8,9 @@ I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusias
 <br>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abyj269&layout=compact)](https://github.com/Abyj269/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-Abyj269&color=dc143c)
+
 
 <!--
 **Abyj269/Abyj269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
