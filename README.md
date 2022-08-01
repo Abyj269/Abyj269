@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Aby Jose
 <hr>
 
-<h3>A little about me...</h3> 
+###A little about me...
 
 I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 Passionate About Learning And Working With New Technology.
 <br>
