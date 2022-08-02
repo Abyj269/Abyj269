@@ -6,7 +6,7 @@
 I'm an MCA Student🎓 @Amal Jyothi College of Engineering. I'm a Tech Enthusiast 💻 😃 Passionate About Learning And Working With New Technology.
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,php,bootstrap,figma,git)](https://skillicons.dev)
+
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -26,6 +26,8 @@ https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notep
 
 <!--
 **Abyj269/Abyj269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,php,bootstrap,figma,git)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
